@@ -2,7 +2,6 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?logo=nextdotjs)
 ![Supabase](https://img.shields.io/badge/Supabase-Enabled-3ECF8E?logo=supabase)
-![License](https://img.shields.io/github/license/your-username/your-repo-name)
 ![Status](https://img.shields.io/badge/status-In%20Progress-yellow)
 
 A web-based photobooth where users can snap photos, create photostrips, add messages, and store them month-wise — all protected by authentication and backed by Supabase.
